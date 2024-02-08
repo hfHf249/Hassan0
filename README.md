@@ -1,4 +1,4 @@
 git clone 
 https://github.com/hfHf249/Hassan0.git
 cd Hassan0
-python fuckamir.py
+python Hassan13.py
